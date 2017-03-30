@@ -6,4 +6,5 @@ echo "Nama : Ivan Reynaldi";
 echo "Nama : Fakhri Hendyansyah"; 
 echo "Nama : Tito Muharomi"; 
 echo "Nama : Alfian Eryan dika"; 
+echo "NIM  : 10114286";
 <?
